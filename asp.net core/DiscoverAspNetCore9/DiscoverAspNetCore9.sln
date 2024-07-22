@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverAspNetCore9", "DiscoverAspNetCore9\DiscoverAspNetCore9.csproj", "{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aspnet9", "aspnet9", "{27BB4A97-3D18-48A3-9A66-9BD490AA503D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Csharp13", "Csharp13", "{A0433788-A1D0-4B2B-8BDC-EEA108BF907C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linqs", "Linqs", "{9F660B96-5EBC-40BF-ABD2-21C3A21148AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet9.linqs", "dotnet9.linqs\dotnet9.linqs.csproj", "{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1DF3428-88E3-43E5-8BF5-08D78C73B1A1} = {27BB4A97-3D18-48A3-9A66-9BD490AA503D}
+		{9F660B96-5EBC-40BF-ABD2-21C3A21148AA} = {A0433788-A1D0-4B2B-8BDC-EEA108BF907C}
+		{4C1D5EC8-80E0-4CA7-ACB7-3E0DD7D46C57} = {9F660B96-5EBC-40BF-ABD2-21C3A21148AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA230ECA-A4A3-4DFD-BAE5-2D54B2D00DA5}
+	EndGlobalSection
+EndGlobal
